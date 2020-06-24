@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*------------- #W-EVENTS --------------*/
 
 
@@ -27,33 +26,3 @@
 	}
   }
 }
-=======
-/*------------- #W-EVENTS --------------*/
-
-
-.event-day {
-  margin: 0 auto 40px;
-  border-radius: 30px;
-  background-color: $blue-lighteen;
-  padding: 11px 14px;
-  line-height: 1;
-  font-size: 14px;
-  font-weight: $h-font-weight;
-  text-transform: uppercase;
-  text-align: center;
-  color: $icon-color;
-  display: table;
-}
-
-.w-events {
-  .event-item {
-	padding-bottom: 25px;
-	margin-bottom: 25px;
-	border-bottom: 1px solid $border-color;
-
-	&:last-child {
-	  border-bottom: none;
-	}
-  }
-}
->>>>>>> d7ba5b12aa25587d8467a94a8e2c8b67623fc2c8
